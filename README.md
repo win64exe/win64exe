@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=win64exe&label=Profile%20views&color=0e75b6&style=flat" alt="win64exe" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+## Social Media:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/xe9om0rph)
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/@gameit1)
 
