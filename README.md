@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alexey</h1>
 <h3 align="center">IT support engineer</h3>
 
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=olrfwc00mjnc6eko2o9fy4fsu)
+
 ## Social Media:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/xe9om0rph)
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/@gameit1)
