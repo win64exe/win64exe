@@ -3,6 +3,7 @@
 
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=olrfwc00mjnc6eko2o9fy4fsu&count=3)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=olrfwc00mjnc6eko2o9fy4fsu&count=3)
 
 
 ## Social Media:
